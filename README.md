@@ -26,3 +26,5 @@ MNA-Q currently support three simulation types :
 - DC bias point
 - AC frequency analysis
 - AC transient analysis
+
+-note: The program only allow sinusoidal voltage and circuit sources. Also, This tool works only on versions of MATLAB from R2014b onwards.
