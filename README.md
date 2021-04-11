@@ -27,4 +27,4 @@ MNA-Q currently support three simulation types :
 - AC frequency analysis
 - AC transient analysis
 
--note: The program only allow sinusoidal voltage and circuit sources. Also, This tool works only on versions of MATLAB from R2014b onwards.
+-note: The program only allow sinusoidal voltage and circuit sources with limited input. Also, This tool works only on versions of MATLAB from R2014b onwards.
