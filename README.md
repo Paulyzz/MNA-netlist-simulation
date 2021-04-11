@@ -9,7 +9,7 @@ How to use:
 2.  enter 1 to select MNA as the circuit analysis method.
 3.  enter the file name of the netlist.
 
-MNA-Q supports the following circuit elements :-
+MNA-Q supports the following circuit elements :
 -------
 - Resistors (R)
 - Capacitors (C)
@@ -21,7 +21,7 @@ MNA-Q supports the following circuit elements :-
 - Current controlled voltage sources (CCVS) (H)
 - Current controlled current sources (CCCS) (F)
 
-MNA-Q support three simulation types :-
+MNA-Q support three simulation types :
 --------
 - DC bias point
 - AC frequency analysis
