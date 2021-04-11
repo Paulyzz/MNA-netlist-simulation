@@ -21,7 +21,7 @@ MNA-Q supports the following circuit elements :
 - Current controlled voltage sources (CCVS) (H)
 - Current controlled current sources (CCCS) (F)
 
-MNA-Q support three simulation types :
+MNA-Q currently support three simulation types :
 --------
 - DC bias point
 - AC frequency analysis
